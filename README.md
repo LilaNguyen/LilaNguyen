@@ -1,12 +1,16 @@
 # Hi, I'm Lila! 👋
 
-## 👩‍💻 About Me
+## 🔗 About Me
 - 👩🏻‍💻 Incoming senior at San Jose State University, studying Data Science
 - 🧠 AI/ML Fellow @ Break Through Tech
 - 🍵 Aficionado of matcha, polymer clay artist, and photography enthusiast
 
 I’m passionate about leveraging data and technology to solve complex challenges in creative ways. My experience spans full-stack development—from designing intuitive UIs to leading backend development. This summer, I’m also earning my Machine Learning Foundations certification from Cornell University to deepen my AI/ML expertise.
 
+Feel free to connect or check out my projects!
+- Email: lila.nguyen@sjsu.edu
+- Linkedin: www.linkedin.com/in/lila-datamaven
+  
 ## 🛠 Languages & Tools
 - **Languages:** Python, Java, Bash, HTML, CSS
 - **Tools & Frameworks:**  
@@ -22,7 +26,3 @@ I’m passionate about leveraging data and technology to solve complex challenge
 - **What We Did:** Designed and built a personal budgeting desktop app using Java and JavaFX, applying object-oriented programming principles. Developed 8+ user interfaces and backend systems for managing financial accounts and transactions.
 - **Tools:** Java, JavaFX, Git, Eclipse
 - **Result:** Delivered a fully functional budgeting application with a clean, intuitive UI.
-
-Feel free to connect or check out my projects!
-- Email: lila.nguyen@sjsu.edu
-- Linkedin: www.linkedin.com/in/lila-datamaven
