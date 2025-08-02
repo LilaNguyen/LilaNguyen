@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Lila! 👋
 
-<!--
-**LilaNguyen/LilaNguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 About Me
+- 👩🏻‍💻 Incoming senior at San Jose State University, studying Data Science
+- 🧠 AI/ML Fellow @ Break Through Tech
+- 🍵 Aficionado of matcha, polymer clay artist, and photography enthusiast
 
-Here are some ideas to get you started:
+I’m passionate about leveraging data and technology to solve complex challenges in creative ways. My experience spans full-stack development—from designing intuitive UIs to leading backend development. This summer, I’m also earning my Machine Learning Foundations certification from Cornell University to deepen my AI/ML expertise.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Languages & Tools
+- **Languages:** Python, Java, Bash, HTML, CSS
+- **Tools & Frameworks:**  
+  Jupyter Notebook, Git, NumPy, Pandas, Matplotlib, Seaborn, scikit-learn, TensorFlow, Keras, PyCharm, Flask, Eclipse, JavaFX, Tkinter, JMP, Moqups, Canva
+
+## 📈 Projects
+### 1. Ejection Fraction Prediction
+- **What We Did:** Cleaned and transformed heart failure clinical data, performed exploratory data analysis (EDA) to uncover key relationships, and developed multiple linear regression models—including interaction effects—to predict ejection fraction.
+- **Tools:** JMP
+- **Result:** Built 3+ regression models with actionable insights into predictors’ impact on heart function. Collaborated with a team of 4 to produce a comprehensive report with variable interpretations, summary statistics, and visualizations.
+
+### 2. [Budget Buddy](https://github.com/LilaNguyen/budget-buddy#) 
+- **What We Did:** Designed and built a personal budgeting desktop app using Java and JavaFX, applying object-oriented programming principles. Developed 8+ user interfaces and backend systems for managing financial accounts and transactions.
+- **Tools:** Java, JavaFX, Git, Eclipse
+- **Result:** Delivered a fully functional budgeting application with a clean, intuitive UI.
+
+Feel free to connect or check out my projects!
+- Email: lila.nguyen@sjsu.edu
+- Linkedin: www.linkedin.com/in/lila-datamaven
