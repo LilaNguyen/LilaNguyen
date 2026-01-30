@@ -12,7 +12,7 @@ I would love to connect or talk more about my projects!
 - Linkedin: www.linkedin.com/in/lila-datamaven
   
 ## 🛠 Languages & Tools
-- **Languages:** Python, Java, Bash, HTML, CSS
+- **Languages:** Python, Java, SQL, Bash, HTML, CSS
 - **Tools & Frameworks:**  
   Jupyter Notebook, Git, NumPy, Pandas, Matplotlib, Seaborn, scikit-learn, TensorFlow, Keras, PyCharm, Flask, Eclipse, JavaFX, Tkinter, JMP, Moqups, Canva
 
@@ -31,7 +31,16 @@ I would love to connect or talk more about my projects!
 - **Tools:** Python, Jupyter Notebook
 - **Result:** Achieved up to 81.6% test accuracy and 0.897 AUC with Random Forest model.
 
-#### 2. [deep-learning-applications](https://github.com/LilaNguyen/deep-learning-applications)
+#### 2. [Sephora Analytics for Community Engagement-Driven Marketing](https://github.com/LilaNguyen/Skinterest-Tech-1B/tree/main)
+- **What We Did:**
+  * Analyzed [Sephora's skincare product and review dataset](https://www.kaggle.com/datasets/nadyinky/sephora-products-and-skincare-reviews/data) to extract actionable marketing insights through community segmentation and trend analysis.
+  * Insights are about: overall top brands, distribution of skin types, product reccomendation, and community clusters and their respective top ingredients and brands.
+- **Tools:** Python, Google Colab
+- **Results:**
+  * Our supervised neural network using Stochastic Gradient Descent optimization algorithm and Binary Cross-Entropy for the loss function achieved 93.3% accuracy with 0.17 loss.
+  * Our unsupervised K-Modes Clustering achieved the following: Silhouette: 0.081, Calinski-Harabasz: 137.985, Davies-Bouldin: 3.292, ARI: 0.003, NMI: 0.019, Homogeneity: 0.022, Completeness: 0.017, V-measure: 0.019
+
+#### 3. [deep-learning-applications](https://github.com/LilaNguyen/deep-learning-applications)
 - **What I Did:** Applied deep learning techniques and built 3+ neural networks (NN) to predict student final exam scores, classify individuals as having a sleep disorder or not, and predict whether a meal is healthy or not (from 3 different Kaggle datasets).
 - **Tools:** Python, pandas, numpy, scikit-learn, Jupyter Notebook
 - **Results:** Achieved a
@@ -39,12 +48,12 @@ I would love to connect or talk more about my projects!
   * loss of 0.26 and 92.9% accuracy with binary classification NN on [lifestyle and sleep patterns dataset](https://www.kaggle.com/datasets/minahilfatima12328/lifestyle-and-sleep-patterns)
   * loss of 0.11 and 95.5% accuracy with binary classification NN on [healthy eating dataset](https://www.kaggle.com/datasets/khushikyad001/healthy-eating-dataset/data).
   
-#### 3. [Adult Census Income Prediction](https://github.com/LilaNguyen/Adult-Census-Income-Prediction)
+#### 4. [Adult Census Income Prediction](https://github.com/LilaNguyen/Adult-Census-Income-Prediction)
 - **What I Did:** Built 2 end-to-end ML models to predict income bracket of a new adult.
 - **Tools:** Python, pandas, numpy, matplotlib, seaborn, scikit-learn, Jupyter Notebook
 - **Results:** Built Logistic Regression and Random Forest models with 84% and 85% accuracy respectively.
 
-#### 4. Ejection Fraction Prediction
+#### 5. Ejection Fraction Prediction
 - **What We Did:** Cleaned and transformed heart failure clinical data, performed exploratory data analysis (EDA) to uncover key relationships, and developed multiple linear regression models—including interaction effects—to predict ejection fraction.
 - **Tools:** JMP
 - **Results:**
