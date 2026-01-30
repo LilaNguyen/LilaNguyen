@@ -7,7 +7,7 @@
 
 I’m passionate about leveraging data and technology to solve complex challenges in creative ways. My experience spans full-stack development—from designing intuitive UIs to leading backend development. This summer, I’m also earning my Machine Learning Foundations certification from Cornell University to deepen my AI/ML expertise.
 
-Feel free to connect or check out my projects!
+I would love to connect or talk more about my projects!
 - Email: lila.nguyen@sjsu.edu
 - Linkedin: www.linkedin.com/in/lila-datamaven
   
@@ -17,23 +17,61 @@ Feel free to connect or check out my projects!
   Jupyter Notebook, Git, NumPy, Pandas, Matplotlib, Seaborn, scikit-learn, TensorFlow, Keras, PyCharm, Flask, Eclipse, JavaFX, Tkinter, JMP, Moqups, Canva
 
 ## 🚀 Current Projects
-### 1. [deep-learning-applications](https://github.com/LilaNguyen/deep-learning-applications)
-- **What I'm doing:** Applying deep learning techniques to predict student final exam scores, classify individuals as having a sleep disorder or not, and predict whether a meal is healthy or not.
-- **Tools:** Python, pandas, numpy, scikit-learn, Jupyter Notebook
+### 1. Data Science Project
+- **What I'm doing:** Currently discussing potential topics
+- **Tools:** (in progress)
 - **Result:** (in progress)
 
 ## 📈 Past Projects
-### 1. [Adult Census Income Prediction](https://github.com/LilaNguyen/Adult-Census-Income-Prediction)
+### Data Science:
+#### 1. [Histopathology Metastasis Detection](https://github.com/LilaNguyen/Metastasis-Tissue-Classification)
+- **What I Did:**
+  * Built 5+ ML models to classify histopathology images as metastasis or non-metasis
+  * Evaluated and compared their performances in metastasis tissue detection using accuracy, AUC, ROC curves, and confusion matrices.
+- **Tools:** Python, Jupyter Notebook
+- **Result:** Achieved up to 81.6% test accuracy and 0.897 AUC with Random Forest model.
+
+#### 2. [deep-learning-applications](https://github.com/LilaNguyen/deep-learning-applications)
+- **What I Did:** Applied deep learning techniques and built 3+ neural networks (NN) to predict student final exam scores, classify individuals as having a sleep disorder or not, and predict whether a meal is healthy or not (from 3 different Kaggle datasets).
+- **Tools:** Python, pandas, numpy, scikit-learn, Jupyter Notebook
+- **Results:** Achieved a
+  * loss of 7.40 and MAE of 2.33 on exam scores with regression NN on [student academics dataset](https://www.kaggle.com/datasets/saadaliyaseen/analyzing-student-academic-trends)
+  * loss of 0.26 and 92.9% accuracy with binary classification NN on [lifestyle and sleep patterns dataset](https://www.kaggle.com/datasets/minahilfatima12328/lifestyle-and-sleep-patterns)
+  * loss of 0.11 and 95.5% accuracy with binary classification NN on [healthy eating dataset](https://www.kaggle.com/datasets/khushikyad001/healthy-eating-dataset/data).
+  
+#### 3. [Adult Census Income Prediction](https://github.com/LilaNguyen/Adult-Census-Income-Prediction)
 - **What I Did:** Built 2 end-to-end ML models to predict income bracket of a new adult.
 - **Tools:** Python, pandas, numpy, matplotlib, seaborn, scikit-learn, Jupyter Notebook
-- **Result:** Built Logistic Regression and Random Forest models with 84% and 85% accuracy respectively.
+- **Results:** Built Logistic Regression and Random Forest models with 84% and 85% accuracy respectively.
 
-### 2. Ejection Fraction Prediction
+#### 4. Ejection Fraction Prediction
 - **What We Did:** Cleaned and transformed heart failure clinical data, performed exploratory data analysis (EDA) to uncover key relationships, and developed multiple linear regression models—including interaction effects—to predict ejection fraction.
 - **Tools:** JMP
-- **Result:** Built 3+ regression models with actionable insights into predictors’ impact on heart function. Collaborated with a team of 4 to produce a comprehensive report with variable interpretations, summary statistics, and visualizations.
+- **Results:**
+  * Built 3+ regression models with actionable insights into predictors’ impact on heart function.
+  * Collaborated with a team of 4 to produce a comprehensive report with variable interpretations, summary statistics, and visualizations.
 
-### 3. [Budget Buddy](https://github.com/LilaNguyen/budget-buddy#) 
-- **What We Did:** Designed and built a personal budgeting desktop app using Java and JavaFX, applying object-oriented programming principles. Developed 8+ user interfaces and backend systems for managing financial accounts and transactions.
+### Full-stack:
+#### 1. [Flavor Feed](https://github.com/jonehthan/Flavor-Feed)
+- **What I Did:**
+  * Owned backend development, implementing user authentication, authorization, and core app logic.
+  * Built RESTful API endpoints to support CRUD operations, admin moderation, and user interactions.
+  * Integrated and extended relational DB schema to support new features. Implemented notifications, replies, and content-sharing workflows.
+- **Tools:** Python, Flask, MySQL, Git
+- **Result:** Delivered a fully functional, database-driven recipe-sharing application, using RESTful architecture to secure user authentication and allow scalable content management.
+
+#### 2. [Stock Price Analyzer](https://github.com/xiaoqilee/stock-market)
+- **What I Did:**
+  * Performed preprocessing and validation (i.e. handling missing values).
+  * Computed summary statistics (i.e. mean, max, min closing price) using Pandas and NumPy
+  * Created the line plots of stock trends using Matplotlib.
+  * Displayed summary statistics and visualization in a readable format
+- **Tools:** Python, Tkinter
+- **Result:** Collaborated with Qi to design and implement a Python interface that could obtain, analyze, and visualize stock market trends from Yahoo Finance's API. 
+
+#### 3. [Budget Buddy](https://github.com/LilaNguyen/budget-buddy#) 
+- **What We Did:**
+  * Designed and built a personal budgeting desktop app using Java and JavaFX, applying object-oriented programming principles.
+  * Developed 8+ user interfaces and backend systems for managing financial accounts and transactions.
 - **Tools:** Java, JavaFX, Git, Eclipse
 - **Result:** Delivered a fully functional budgeting application with a clean, intuitive UI.
